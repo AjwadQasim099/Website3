@@ -1,0 +1,239 @@
+#one{
+    width: 180px;
+}
+#two{
+    width: 1000px;
+    height: 40px;
+}
+#three{
+    width: 30px;
+    margin-top: 10px;
+}
+#form{
+color: black;
+text-decoration: none;
+font: bolder;
+}
+#para{
+    font-size: 20px;
+}
+#para:hover{
+    color: red;
+}
+#Card1{
+    display: inline-block;
+    margin-left: 3rem;
+    margin-top: 3rem;
+}
+#Card1:hover{
+    box-shadow: 5px 5px 5px black;
+}
+#footpara1{
+display: inline-block;
+}
+#footimg1{
+    display: inline-block;
+    width: 3rem;
+    margin-left: 45rem;
+}
+#footimg1:hover{
+    border: 2px solid beige;
+    width: 3rem;
+}
+#footimg2{
+    display: inline-block;
+    width: 3rem;
+    margin-left: 70rem;
+}
+#footimg2:hover{
+    border: 2px solid beige;
+    width: 3rem;
+}
+#footimg3{
+    display: inline-block;
+    width: 3rem;
+    margin-left: 70rem;
+}
+#footimg3:hover{
+    border: 2px solid beige;
+    width: 3rem;
+}
+#footpara2{
+    margin-left: 67rem;
+}
+#footpara3{
+    margin-left: 67rem;
+}
+#footpara4{
+    margin-left: 68rem;
+}
+.footlist{
+    display: inline-block;
+}
+#footlist1{
+    margin-left: 7rem;
+}
+#footlist2{
+    margin-left: 8rem;
+}
+#footlist3{
+    margin-left: 8rem;
+}
+#footlist4{
+    margin-left: 8rem;
+}
+#footlist5{
+    margin-left: 8rem;
+}
+#footlist6{
+    margin-left: 8rem;
+}
+#footlist7{
+    margin-left: 12rem;
+}
+#footlist8{
+    margin-left: 12rem;
+}
+#footlist9{
+    margin-left: 5rem
+}
+#footlist10{
+    margin-left: 12rem
+}
+#footlistb1{
+    margin-left: 9rem
+}
+#footlistb2{
+    margin-left: 10rem
+}
+#footlistb3{
+    margin-left: 9rem
+}
+#footlistb4{
+    margin-left: 4rem
+}
+#footlistb5{
+    margin-left: 9rem
+}
+#footlistb6{
+    margin-left: 7rem
+}
+#footlistb7{
+    margin-left: 5rem
+}
+#footlistb8{
+    margin-left: 8rem
+}
+#footlistb9{
+    margin-left: 4rem
+}
+#footlistb10{
+    margin-left: 6rem
+}
+#footlistc1{
+    margin-left: 7rem
+}
+#footlistc2{
+    margin-left: 8rem
+}
+#footlistc3{
+    margin-left: 10rem
+}
+#footlistc4{
+    margin-left: 4rem
+}
+#footlistc5{
+    margin-left: 6rem
+}
+#footlistc6{
+    margin-left: 6rem
+}
+#footlistc7{
+    margin-left: 8rem
+}
+#footlistc8{
+    margin-left: 10rem
+}
+#footlistc9{
+    margin-left: 4rem
+}
+#footlistc10{
+    margin-left: 7rem
+}
+#footlistc11{
+    margin-left: 10rem
+}
+#footlistc12{
+    margin-left: 8rem
+}
+#footlistc13{
+    margin-left: 10rem
+}
+#hr1{
+    color: black;
+}
+#footliist{
+    margin-left: 2rem;
+}
+.footlist:hover{
+    cursor: pointer;
+}
+#footimg4{
+    width: 10rem;
+    margin-left: 4rem;
+}
+#footimg4:hover{
+    cursor: pointer;
+}
+#footimg5{
+width: 12rem;
+margin-left: 51rem;
+}
+#footimg5:hover{
+    cursor: pointer;
+}
+#footimg6{
+    width: 7rem;
+    margin-left: 76rem;
+}
+#according{
+    text-align: center;
+    background-color: brown;
+    color: white;
+}
+#Card{
+    display: inline-block;
+    margin-left: 3rem;
+    margin-top: 1rem;
+}
+#Card:hover{
+    box-shadow: 6px 6px 6px black;
+    cursor: pointer;
+}
+#link{
+    text-decoration: none;
+    color:black;
+}
+.header{
+    display: inline-block;
+}
+.header:hover{
+    text-decoration: underline;
+    color: brown;
+    cursor: pointer;
+}
+#head1{
+    margin-left: 3rem;
+}
+
+#head{
+    margin-left: 7rem;
+}
+#header01{
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 75rem;
+    margin-left: 5rem;
+    margin-top: 1rem;
+    background-color: beige;
+}
